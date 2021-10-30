@@ -1,4 +1,4 @@
-## Stathis Ntonas
+## Efstathios Ntonas
 
 > Programmer based in Greece. Specialising in web, mobile and systems development: Javascript, Typescript, React, React Native, Nodejs.
 
